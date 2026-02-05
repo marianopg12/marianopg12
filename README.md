@@ -1,12 +1,12 @@
 Mariano Galeano | Football coach + Data Analysis
 
-Transfermarkt: https://www.transfermarkt.com/mariano-galeano/profil/trainer/59486"
+Transfermarkt: https://www.transfermarkt.com/mariano-galeano/profil/trainer/59486
 Twitter: @MarianoGalean16
 
 Football Analyst | Python + Pandas + Streamlit
-Twitter: @MarianoGalean16 
 ATFA Pro Licence + Technical background
-## Tech Stack
+
+## Tech Skilds
 - **Python** + **Pandas** + **Streamlit** para dashboards de rendimiento
 - Análisis de player performance y scouting digital
 ## Projects
