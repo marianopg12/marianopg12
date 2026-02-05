@@ -10,6 +10,6 @@ ATFA Pro Licence + Technical background
 - **Python** + **Pandas** + **Streamlit** para dashboards de rendimiento
 - Análisis de player performance y scouting digital
 ## Projects
-- Futbol-Analisis-GP: Dashboard para tracking de rendimiento físico
+- Futbol-Analisis-GPS: Dashboard para tracking de rendimiento físico
 - Herramientas personalizadas para optimización de entrenamientos
 - Sistemas de scouting futbolistas
