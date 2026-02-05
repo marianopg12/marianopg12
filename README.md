@@ -6,7 +6,7 @@ Twitter: @MarianoGalean16
 Football Analyst | Python + Pandas + Streamlit
 ATFA Pro Licence + Technical background
 
-## Tech Skilds
+## Tech Skills
 - **Python** + **Pandas** + **Streamlit** para dashboards de rendimiento
 - Análisis de player performance y scouting digital
 ## Projects
